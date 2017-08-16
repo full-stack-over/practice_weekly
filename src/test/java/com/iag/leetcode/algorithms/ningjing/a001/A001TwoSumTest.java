@@ -1,10 +1,9 @@
-package com.iag.leetcode.algorithms.xueshan.a001;
+package com.iag.leetcode.algorithms.ningjing.a001;
 
-import com.iag.leetcode.algorithms.xueshan.a001.A001TwoSum;
 import org.junit.Test;
 
 /**
- * @Author xueshan.wei@mljr.com
+ * @Author jing.ning@mljr.com
  * @Date 2017/8/15 上午10:31
  */
 public class A001TwoSumTest {
