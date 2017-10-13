@@ -1,5 +1,8 @@
 package com.iag.leetcode.algorithms.xueshan.a001;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @Author xueshan.wei@mljr.com
  * @Date 2017/8/15 上午10:29
@@ -18,5 +21,11 @@ public class A001TwoSum {
             }
         }
         return result;
+    }
+
+    public int [] twoSum2(int [] nums, int target){
+
+        Map map = new HashMap();
+        return null;
     }
 }
